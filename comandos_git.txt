@@ -2,3 +2,5 @@ git ini . -> cria um repo git na pasta atual
 git status -> mostra o status do trabalho 
 git add nome_arquivo -> adiciona o arquivo para ser commitado
 git commit -m "msg" -> faz o commit do que estava para ser commitado 
+git config --global (user.name e user.e-mail).
+git log -> mostra o histórico dos comandos git
