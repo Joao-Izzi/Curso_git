@@ -13,3 +13,5 @@ rm -rf "nome do arquivo" -> apaga as coisas ( muito cuidado com isso aki pq se n
 git status -> fala a branch. Fala se tem algum commit ( checkpoints ). Untracked Files, são arquivos que não foram apresentados pro commit. Ele mostra como esta cada arquivo.
 
 git add "nome arquivo" -> fala os arquivos que queremos que va para o commit
+
+git config --global (user.name e user.e-mail).
