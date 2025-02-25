@@ -1,0 +1,15 @@
+ls -> lista arquivos
+
+cd -> move entre diretórios
+
+pwd -> mostra o diretório de trabalho
+
+cat 'nome do arquivo' -> mostra o que tem dentro do arquivo indicado
+
+git init . -> cria um repositório git (vazio) pra poder versionar a pasta
+
+rm -rf "nome do arquivo" -> apaga as coisas ( muito cuidado com isso aki pq se n tiver na pasta certa vai deletar tudo ).
+
+git status -> fala a branch. Fala se tem algum commit ( checkpoints ). Untracked Files, são arquivos que não foram apresentados pro commit. Ele mostra como esta cada arquivo.
+
+git add "nome arquivo" -> fala os arquivos que queremos que va para o commit
