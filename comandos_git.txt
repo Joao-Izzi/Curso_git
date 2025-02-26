@@ -6,6 +6,8 @@ git config --global (user.name e user.e-mail).
 git log -> mostra o histórico dos comandos git
 git diff "nome do arquivo" -> o que tem de diferente do estado atual, para o commit anterior
 git reset "nome do arquivo" -> volta um arquivo que a gente deu add pra n commitar ele agr.
+git checkout -b "nome da branch"
+git branch -> mostra as branchs e a atual sua
 
 ## FLUXO DE TRABALHO -
 
