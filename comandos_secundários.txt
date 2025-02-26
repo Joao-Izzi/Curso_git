@@ -3,3 +3,5 @@ comandos secundários de git
 algumas coisas
 
 comandos estranhos
+
+mais uma linha
