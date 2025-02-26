@@ -12,3 +12,5 @@ rm -> remove o diretório
 
 rm -rf "nome do arquivo" -> apaga as coisas ( muito cuidado com isso aki pq se n tiver na pasta certa vai deletar tudo ).
 
+eoq
+
