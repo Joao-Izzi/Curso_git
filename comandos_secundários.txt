@@ -1,1 +1,3 @@
 comandos secundários de git 
+
+algumas coisas

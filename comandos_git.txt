@@ -9,6 +9,7 @@ git reset "nome do arquivo" -> volta um arquivo que a gente deu add pra n commit
 git checkout -b "nome da branch" -> cria uma branch
 git checkout "nome da branch" -> muda para a branch
 git branch -> mostra as branchs e a atual sua
+git merge -> traz as informações de uma branch secundaria pra sua main ( ou vice versa )
 
 ## FLUXO DE TRABALHO -
 
