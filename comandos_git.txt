@@ -4,8 +4,9 @@ git add nome_arquivo -> adiciona o arquivo para ser commitado
 git commit -m "msg" -> faz o commit do que estava para ser commitado 
 git config --global (user.name e user.e-mail).
 git log -> mostra o histórico dos comandos git
+git diff "nome do arquivo" -> o que tem de diferente do estado atual, para o commit anterior
 
-## FLUXO DE TRABALHO
+## FLUXO DE TRABALHO -
 
 1. Criar o diretório do projeto mkdir
 2. iniciar o git dentro diretório criado git init.
