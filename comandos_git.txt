@@ -10,6 +10,7 @@ git checkout -b "nome da branch" -> cria uma branch
 git checkout "nome da branch" -> muda para a branch
 git branch -> mostra as branchs e a atual sua
 git merge -> traz as informações de uma branch secundaria pra sua main ( ou vice versa )
+git branch -D "nome branch" -> deleta a branch
 
 ## FLUXO DE TRABALHO -
 

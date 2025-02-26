@@ -1,0 +1,2 @@
+Normalmente criamos uma branch da main, pra ter ctz que a nossa branch vai ter todas as informações possíveis.
+Segunda coisa, é de boa prática nunca fazer as mudanças na main, pois ela é a principal. Devemos mudar as outras branchs.
