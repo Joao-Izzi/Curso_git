@@ -22,3 +22,5 @@ git branch -D "nome branch" -> deleta a branch
 6. git commit -m "mensagem"
 7. git status
 8. Volte para o passo 3
+
+10. Erro. isso é uma mensagem estranha
