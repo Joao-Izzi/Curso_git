@@ -1,0 +1,24 @@
+1. git colne <endereço do projeto>
+2. git checkout -b <nova_branch>
+3. cria ou atualizar arquivos
+4. git status
+5. git add <arquivos>
+6. git commit -m "mensagem"
+7.git push origin main <nova_branch>
+8. abrir pull request no GitHub pra main
+9. git checkout main
+
+fluxo no GitHub
+
+01. Fork do projeto 
+02. git clone <endereço do projetado forkado>
+03. git checkout -b <nova_branch>
+04. alterar arquivos
+05. git status
+06. git add <arquivos>
+07. git commit -m <mensagem>
+08. git push origin <nova_branch>
+09. abrir pull request no GitHub da branch fork para a main do projeto original
+10. Excluir nova_branch origin
+12. Git checkout main
+13. Git branch -d <nova_branch>
