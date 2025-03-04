@@ -3,3 +3,5 @@
 Um curso pra aprender a trabalhar com versionamento de código e repositórios do GitHub do teo calvo
 
 Feito por João Izzi
+
+[Curso Git 2025](https://youtube.com/@teomewhy)
