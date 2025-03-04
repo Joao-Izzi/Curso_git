@@ -7,6 +7,7 @@ git log -> mostra o histórico dos comandos git
 git diff "nome do arquivo" -> o que tem de diferente do estado atual, para o commit anterior
 git reset "nome do arquivo" -> volta um arquivo que a gente deu add pra n commitar ele agr.
 git checkout -b "nome da branch" -> cria uma branch
+testando umas coias aqui
 git checkout "nome da branch" -> muda para a branch
 git branch -> mostra as branchs e a atual sua
 git merge -> traz as informações de uma branch secundaria pra sua main ( ou vice versa )
